@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  border-image: fill;
+  height:100vh;
+  width: 100vw;
+  background-image: linear-gradient(rgba(253, 253, 211, 0.508), rgba(255, 38, 0, 0.282)),
+                    url("images/Work_in_Progress_Header-1024x554.png");
+  background-color: rgba(245, 245, 245, 0.2);
+}
